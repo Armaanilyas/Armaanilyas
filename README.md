@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Armaanilyas
 - 👀 I’m interested in learning C code & ethical hacking
-- 🌱 I’m currently learning HTML,CSS, JAVASCRIPT
+- 🌱 I’m currently learning HTML,CSS, Python
 - 💞️ I’m looking to collaborate on a website
 - 📫 How to reach me Instagram: @armaanilyas2580
 
